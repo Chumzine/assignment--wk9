@@ -159,6 +159,7 @@ Variables declared within a JavaScript function, become LOCAL to the function an
 
 # For further reading:
 Reference Functions <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions">here</a>
+
 Function Basics <a href="https://javascript.info/function-basics">here</a>
 
 
